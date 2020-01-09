@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+target/generated-sources/
+target/generated-test-sources/
+target/wyait-manage-0.0.1-SNAPSHOT/META-INF/
+.idea/
+
